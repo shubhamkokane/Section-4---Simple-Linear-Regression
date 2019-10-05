@@ -37,6 +37,7 @@ plt.title('Salary vs Experience (Training Set)')
 plt.xlabel('Years of Experience')
 plt.ylabel('Salary')
 plt.show()
+plt.show()
 
 #Visualizing the Testing set results
 plt.scatter(X_test, y_test, color = 'red')
